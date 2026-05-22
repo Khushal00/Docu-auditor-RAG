@@ -1,0 +1,6 @@
+.DS_Store
+audit_extraction_engine/.DS_Store
+audit_extraction_engine/src/.DS_Store
+audit_extraction_engine/storage/
+*.sqlite3
+data/*.pdf

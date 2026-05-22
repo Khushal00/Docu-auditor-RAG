@@ -1,0 +1,9 @@
+{
+  "source_file": "/Users/khushalrathore/Desktop/comm-auditor/data/Fuel Supply Agreement.pdf",
+  "page_count": 58,
+  "chunk_count": 206,
+  "indexed_count": 206,
+  "embedding_provider": "openai",
+  "embedding_model": "text-embedding-3-small",
+  "ingested_at_utc": "2026-04-15T11:09:03.388763+00:00"
+}

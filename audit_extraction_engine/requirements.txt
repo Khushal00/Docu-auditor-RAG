@@ -1,0 +1,4 @@
+chromadb==1.0.15
+langchain-text-splitters==0.3.8
+openai==1.99.9
+PyMuPDF==1.26.4
